@@ -13,8 +13,8 @@ import InstagramComponent from './components/InstagramComponent'
 export default function App() {
   return (
       // <StatusComponent/>
-      // <InforComponent/>
-      <InstagramComponent/>
+      <InforComponent/>
+      // <InstagramComponent/>
   );
 }
 const styles = StyleSheet.create({
